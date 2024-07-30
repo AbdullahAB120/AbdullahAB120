@@ -47,6 +47,11 @@ I am a Full Stack Web Developer. I mainly design User Interface of a Website. I 
 - `"Introduction to HTML"` Certificate from *Solo Learn*
 - `"Front End Development - CSS"` Certificate from *Greet Learning*
 - `"Introduction to CSS"` Certificate from *Solo Learn*
+- `"Introduction to Web Designing"` Certificate from *Greet Learning*
+- `"Introduction to JavaScript"` Certificate from *Solo Learn*
+- `"Introduction to JavaScript"` Certificate from *Greet Learning*
+- `"JavaScript Intermediate"` Certificate from *Solo Learn*
+- `"Web Development"` Certificate from *Solo Learn*
 
 <br />
 
