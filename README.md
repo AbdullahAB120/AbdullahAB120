@@ -12,8 +12,8 @@
 
 ## 👨‍🏫 About Me
 
-I am a Full Stack Web Developer. I mainly design User Interface of a Website. I also design Single Page Website which is known to us as Landing Page. I can convert PSD to Bootstrap/HTML. My design is always responsive of any devices because I use Bootstrap of all my project. I am expert in HTML, CSS, Bootstrap, Javascript, JQuery, Typescript, SASS, React, Redux, NodeJS, ExpressJS & MongoDB. I'll fully project manage my client's brief from start to finish. Regular communication is really important to me. As a Web Developer I haven't a lot experience, but I always try to do a professional work. So, let's keep in touch.
-
+Hi, I am Abdullah. I am a Full Stack Web Developer. I am studying 12th Class from Engineering University School and College. I have started to learning web development from 2022, when I was in class 9. After completing web development course, I am continuously learning advance tools of web development. I have already completed HTML, CSS, Javascript and many libraries & frameworks like Bootstrap, JQuery, React-Redux, NodeJS, ExpressJS, ElectronJS etc. I have also completed MongoDB & MySQL for Database and Git & Github for version control system. I have received so many certificate for completing all of the above. I have much less experience than my knowledge. I haven't done contractual work yet. But while I was learning web development, then I have done a lot of project. You will see these projects in my github profile and my portfolio. If you see these project and like my works, I will welcome you to work with me. <br>
+Thank you for visiting my profile...
 <br />
 
 
