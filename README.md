@@ -12,16 +12,22 @@
 
 ## 👨‍🏫 About Me
 
-Hi, I am Abdullah. I am a Full Stack Web Developer. I am studying 12th Class from Engineering University School and College. I have started to learning web development from 2022, when I was in class 9. After completing web development course, I am continuously learning advance tools of web development. I have already completed HTML, CSS, Javascript and many libraries & frameworks like Bootstrap, JQuery, React-Redux, NodeJS, ExpressJS, ElectronJS etc. I have also completed MongoDB & MySQL for Database and Git & Github for version control system. I have received so many certificate for completing all of the above. I have much less experience than my knowledge. I haven't done contractual work yet. But while I was learning web development, then I have done a lot of project. You will see these projects in my github profile and my portfolio. If you see these project and like my works, I will welcome you to work with me. <br>
-Thank you for visiting my profile...
+Hi, I'm Abdullah, a Full Stack Web Developer, currently pursuing a B.Sc. in Computer Science & Engineering at Khulna University. I started my web development journey in 2022 and have since built a strong foundation in HTML, CSS, JavaScript, and modern libraries and frameworks. Through developing various projects, I've gained practical experience in building responsive and user-friendly web applications. I'm passionate about continuous learning, writing clean code, and creating high-quality digital solutions. I'd be glad to collaborate on your next project.
 <br />
 
 
 
 ## 👨🏻‍🎓 Education
 
+1. Bachelor of Science in Engineering 
+   *2026 - Present*  
+   Khulna University  
+   Sher E Bangla Road, Gollamari
+   Khulna, Bangladesh  
+   `https://ku.ac.bd/`
+
 1. Higher Secondary Education  
-   *2023 - Present*  
+   *2023 - 2025 | GPA 5.00/5.00*  
    Engineering University School and College  
    Fular Road, BUET Campus,  
    Dhaka, Bangladesh  
