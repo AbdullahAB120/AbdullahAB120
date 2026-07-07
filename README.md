@@ -19,21 +19,21 @@ Hi, I'm Abdullah, a Full Stack Web Developer, currently pursuing a B.Sc. in Comp
 
 ## 👨🏻‍🎓 Education
 
-1. Bachelor of Science in Engineering 
+1. Bachelor of Science in Engineering  
    *2026 - Present*  
    Khulna University  
    Sher E Bangla Road, Gollamari
    Khulna, Bangladesh  
    `https://ku.ac.bd/`
 
-1. Higher Secondary Education  
+2. Higher Secondary Education  
    *2023 - 2025 | GPA 5.00/5.00*  
    Engineering University School and College  
    Fular Road, BUET Campus,  
    Dhaka, Bangladesh  
    `https://eusc.edu.bd/`
    
-2. Secondary School Education  
+3. Secondary School Education  
    *2013 - 2023 | GPA 5.00/5.00*  
    Titas Gas Adarsha High School   
    Sarulia, Demra,  
